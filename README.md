@@ -1,8 +1,8 @@
 # PII Redaction Tool
 
-A Python tool that reads a `.docx` file containing personally identifiable information (PII), replaces every sensitive value with a realistic fake alternative, and saves the result as a clean Word document — preserving all formatting, structure, and non-sensitive content throughout.
+A Python tool that reads a `.docx` file containing personally identifiable information (PII), replaces every sensitive value with a realistic fake alternative, and saves the result as a clean Word document, preserving all formatting, structure, and non-sensitive content throughout.
 
-Built as part of the **Scaler AI Labs Round 2 Assessment**, using a real-world legal document (Red Herring Prospectus — KSH International Limited) as the test case.
+Built as part of the **Scaler AI Labs Round 2 Assessment**, using a real-world legal document (Red Herring Prospectus  KSH International Limited) as the test case.
 
 ---
 
